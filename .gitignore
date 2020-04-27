@@ -1,0 +1,11 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GoogleDrive.zip
+/.vs/decisions-mod-skeleton/v16/.suo
+/.vs/GoogleDrive/v16/Server/sqlite3
+/.vs
+/GoogleDrive/bin/Debug
+/GoogleDrive/obj/Debug
+/GoogleDrive/obj/Release
